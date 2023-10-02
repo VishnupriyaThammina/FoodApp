@@ -1,0 +1,14 @@
+.Dev{
+    color :rgba(255, 255, 255, 0.663);
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    letter-spacing: 1vh;
+    font-weight: 300;
+    flex-direction: column;
+}
+
+.err{
+    font-size: 2rem;
+}
